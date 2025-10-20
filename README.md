@@ -12,4 +12,4 @@ A curated collection of fullstack programming exercises covering OOP, interfaces
 | TP Interfaces 3 – Translating Shapes | Animate objects with translation | `WithTranslation` interface; move objects per clock tick; store positions; test with multiple objects. |
 | TP Factory – Vehicle Builder | Apply Factory and Builder patterns | Create `Car` and `Motorbike`; customize color, wheels, engine; streamline production. |
 | TP 2022 – Computer Factory (Abstract Factory) | Practice Abstract Factory pattern | Create computers using Abstract Factory; scalable and flexible design. |
-| MVC Tic-Tac-Toe | Build a text-based Tic-Tac-Toe with MVC | Model handles logic; View manages input/output; Controller connects them; validates moves, alternates players, detects game end; optionally graphical. |
+| TP MVC Tic-Tac-Toe | Build a text-based Tic-Tac-Toe with MVC | Model handles logic; View manages input/output; Controller connects them; validates moves, alternates players, detects game end; optionally graphical. |
