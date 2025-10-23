@@ -13,3 +13,6 @@ A curated collection of fullstack programming exercises covering OOP, interfaces
 | TP Factory – Vehicle Builder | Apply Factory and Builder patterns | Create `Car` and `Motorbike`; customize color, wheels, engine; streamline production. |
 | TP 2022 – Computer Factory (Abstract Factory) | Practice Abstract Factory pattern | Create computers using Abstract Factory; scalable and flexible design. |
 | TP MVC Tic-Tac-Toe | Build a text-based Tic-Tac-Toe with MVC | Model handles logic; View manages input/output; Controller connects them; validates moves, alternates players, detects game end; optionally graphical. |
+| TP Swing | Build a text-based Tic-Tac-Toe with MVC | Model handles logic; View manages input/output; Controller connects them; validates moves, alternates players, detects game end; optionally graphical. |
+| TP Student | Build a text-based Tic-Tac-Toe with MVC | Model handles logic; View manages input/output; Controller connects them; validates moves, alternates players, detects game end; optionally graphical. |
+| TP Player | Build a text-based Tic-Tac-Toe with MVC | Model handles logic; View manages input/output; Controller connects them; validates moves, alternates players, detects game end; optionally graphical. |
