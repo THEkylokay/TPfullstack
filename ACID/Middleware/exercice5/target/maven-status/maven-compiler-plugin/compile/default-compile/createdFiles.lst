@@ -1,0 +1,5 @@
+fr\insa\acid\App.class
+fr\insa\acid\OperationServer.class
+fr\insa\acid\DemarrerSysteme.class
+fr\insa\acid\Middleware.class
+fr\insa\acid\Client.class
